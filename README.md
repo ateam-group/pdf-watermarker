@@ -8,6 +8,9 @@ Using it, you can:
 * Use jpg and png ( with alpha channels ) files with a 96 DPI resolution
 * Easily position the watermark on the pages of the PDF file
 
+## Fork from https://github.com/binarystash/pdf-watermarker
+fork and modify for laravel use and fix some error bug
+
 ## Installation
 
 1. Place [composer.phar](https://getcomposer.org/composer.phar) in the folder you extracted the files to.
