@@ -16,5 +16,10 @@
 		"phpdocumentor/phpdocumentor": "2.*",
 		"evert/phpdoc-md" : "~0.0.7"
 	},
+	"autoload": {
+		"psr-4": {
+			"AteamSoft\\PDFWatermark\\": "src/"
+		}
+	},
 	"minimum-stability": "stable"
 }
